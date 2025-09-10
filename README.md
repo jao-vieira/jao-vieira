@@ -1,7 +1,7 @@
 ## OPA!! ME CHAMO JOÃO PEDRO 👋
 
 - 💻 Desenvolvimento Front-End!
-- 📘 Estudando ADS!
+- 📘 Cursando ADS!
 - 🌱 Aprendendo Python!
 - 🤔 Procurando ajuda para crescer!
 - ⚡ Curiosidade: Finalizei o ensino médio em julho e em agosto iniciei a graduação!
