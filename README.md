@@ -10,7 +10,7 @@
 
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jao-vieira&show_icons=true&theme=dark#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jao-vieira&theme=dark&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jao-vieira&layout=compact&&theme=dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
