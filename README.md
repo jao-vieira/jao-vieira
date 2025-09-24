@@ -1,6 +1,6 @@
 ## OPA!! ME CHAMO JOÃO PEDRO 👋
 
-- 💻 Futuro Desenvolvedor Front-End!
+- 💻 Futuro Desenvolvedor Full - Stack!
 - 📘 Cursando ADS!
 - 🌱 Aprendendo Python!
 - 🤔 Procurando ajuda para crescer!
