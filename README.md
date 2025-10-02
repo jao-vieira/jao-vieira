@@ -2,7 +2,7 @@
 
 - 💻 Futuro Desenvolvedor Full - Stack!
 - 📘 Cursando ADS!
-- 🌱 Aprendendo Python!
+- 🌱 Aprendendo  Java!
 - 🤔 Procurando ajuda para crescer!
 - ⚡ Curiosidade: Finalizei o ensino médio em julho e em agosto iniciei a graduação!
  
