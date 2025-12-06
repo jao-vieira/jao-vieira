@@ -1,7 +1,7 @@
 ## OPA!! ME CHAMO JOÃO PEDRO 👋
 
 - 💻 Futuro Desenvolvedor Back - End!
-- 📘 Cursando ADS!
+- 📘 Cursando Engenharia de Software!
 - 🌱 Aprendendo  Java!
 - 🤔 Procurando ajuda para crescer!
 - ⚡ Curiosidade: Finalizei o ensino médio em julho e em agosto iniciei a graduação!
